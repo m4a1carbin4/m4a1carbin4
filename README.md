@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=m4a1carbin4&show_icons=true&theme=tokyonight)
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=WaGaNaWa-EingEing
-&show_icons=true&theme=tokyonight)
+![*'s GitHub stats sub_account](https://github-readme-stats.vercel.app/api?username=WaGaNaWa-EingEing&show_icons=true&theme=tokyonight)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=m4a1carbin4)](https://solved.ac/m4a1carbin4)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4a1carbin4&layout=compact)](https://github.com/m4a1carbin4/github-readme-stats)
 
