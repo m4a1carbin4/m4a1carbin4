@@ -25,9 +25,4 @@ Here are some ideas to get you started:
 
 📫 How to reach me: m4a1carbin4@gmail.com
 
-📫 My WEB_Portfolio : https://m4a1carbin4.github.io/WEB_Portfolio/
-
-Find Me
-<br/>
-
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UChBGtcNiBPLll7LT92UgI6Q)](https://www.youtube.com/channel/UChBGtcNiBPLll7LT92UgI6Q)
+📫 My WEB_Portfolio : https://www.wgnw.kr
